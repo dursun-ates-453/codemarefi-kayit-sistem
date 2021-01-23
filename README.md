@@ -4,6 +4,7 @@
 Bilgilendirme;
 
 Dosyaların arasında "Json.Sqlite" dosyası yok. Bu dosya data'ya istek geldiğinde kendi kendini oluşturucaktır.
+```
 
 <img src="https://cdn.discordapp.com/attachments/801898782073421834/802479434976067624/CodeMareFi.png" title="CodeMareFi">
 
