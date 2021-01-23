@@ -1,2 +1,3 @@
-# codemarefi-kayit-sistem
-CodeMareFi İçin Hazırlanan Gelmişmiş V12 Kayıt Bot Altyapısı.
+Gelişmiş V12 Kayıt Bot Altyapısı
+
+# CODEMAREFİ
